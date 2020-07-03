@@ -11,3 +11,4 @@ gem 'fluent-plugin-prometheus', '1.8.0'
 gem 'fluent-plugin-systemd', '1.0.2'
 gem 'fluent-plugin-rewrite-tag-filter', '2.3.0'
 gem 'oj', '3.10.6'
+
